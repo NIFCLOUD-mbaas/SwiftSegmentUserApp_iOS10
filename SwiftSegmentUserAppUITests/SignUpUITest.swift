@@ -95,7 +95,7 @@ class SignUpUITest: XCTestCase {
         app.launch()
         btnSignUp.tap()
         tfUsername.tap()
-        tfUsername.typeText("user_test1")
+        tfUsername.typeText("user_test5")
         tfPassword.tap()
         tfPassword.typeText("123456")
         tfConfirm.tap()
